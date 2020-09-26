@@ -1,0 +1,1 @@
+Love2d Uygulaması gereklidir içerisine sürüklediğiniz taktirde çalışacaktır.
